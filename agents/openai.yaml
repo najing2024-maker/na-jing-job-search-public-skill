@@ -1,0 +1,4 @@
+interface:
+  display_name: "Na Jing Job Search Public"
+  short_description: "Public-safe job search workflow"
+  default_prompt: "Use $na-jing-job-search-public to run a sponsorship-aware U.S. job search workflow."
