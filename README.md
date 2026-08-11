@@ -1,4 +1,4 @@
-# Na Jing Job Search Public
+# Job Search
 
 An operator-first job search workflow for people who want to run a faster, cleaner, and more sponsor-aware U.S. job search.
 
